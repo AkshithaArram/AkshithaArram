@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there, I'm Akshitha Arram 👋
 
-<!--
-**AkshithaArram/AkshithaArram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student | DSA Enthusiast | Full Stack Developer
 
-Here are some ideas to get you started:
+Passionate about building impactful applications and solving complex problems through efficient algorithms. Currently pursuing B.Tech and honing my skills in web development and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Technologies & Tools
+
+Languages: Java, HTML, CSS, JavaScript
+
+Frameworks/Libraries: React
+
+Databases: MySQL
+
+Tools: Git, GitHub, Android Studio, Visual Studio Code
+
+Skills: Full Stack Development, DSA, Problem Solving
+
+
+🚀 Projects
+
+Pandit Booking System - An online platform to book pandits for rituals.
+
+Time Management System - A web app to organize tasks and track progress.
+
+
+🌱 Currently Learning
+
+Advanced DSA with Java
+
+Full Stack Development 
+
+Building Responsive Web Apps
+
+💬 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/akshitha-arram-78386a333/
+
+Email: akshithaarram112@gmail.com
+
+
+Looking forward to collaborating and building amazing projects together! 😊
