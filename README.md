@@ -1,6 +1,6 @@
 Hi there, I'm Akshitha Arram 👋
 
-B.Tech Student | DSA Enthusiast | Full Stack Developer
+B.Tech Student 
 
 Passionate about building impactful applications and solving complex problems through efficient algorithms. Currently pursuing B.Tech and honing my skills in web development and data structures.
 
@@ -15,7 +15,7 @@ Databases: MySQL
 
 Tools: Git, GitHub, Android Studio, Visual Studio Code
 
-Skills: Full Stack Development, DSA, Problem Solving
+Skills:  DSA, Problem Solving
 
 
 🚀 Projects
